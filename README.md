@@ -1,1 +1,2 @@
-![Metrics](https://metrics.lecoq.io/ChristopherJamesN?template=terminal&pagespeed=1&base.indepth=false&base.hireable=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=America%2FChicago)
+![Metrics](https://metrics.lecoq.io/ChristopherJamesN?template=terminal&base.community=0&base.indepth=false&base.hireable=false&config.timezone=America%2FChicago)
+
